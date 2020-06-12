@@ -1,8 +1,0 @@
-123hello
-hhhhhh
-pengxupengxupengxu
-<<<<<<< .mine
-123
-=======
-hhhhhh
->>>>>>> .theirs
