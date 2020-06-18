@@ -1,2 +1,6 @@
+<<<<<<< .mine
 1233123hehlllo
-pengxu618  1
+=======
+1233123hehlllo
+>>>>>>> .theirs
+pengxu618  1123
