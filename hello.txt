@@ -1,6 +1,0 @@
-<<<<<<< .mine
-1233123hehlllo
-=======
-1233123hehlllo
->>>>>>> .theirs
-pengxu618  1123
